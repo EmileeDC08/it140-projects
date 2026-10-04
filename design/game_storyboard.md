@@ -6,47 +6,44 @@
 ## Theme and Storyline
 
 **Theme:**
-
-TODO: Name and briefly describe your game's theme.
+School-theme
 
 **Storyline:**
 
-TODO: In one short paragraph, explain the setting, the player's goal, the items
-the player must gather, and the threat created by the villain.
+You play a student who is desperate to turn in their final assignment in order to go on their summer break and Miss Strickler, the school's meanest teacher is the only teacher standing in your way. All exits are locked, and Miss Strickler is waiting inpatiently in her classroom. To escape, you must explore 8 rooms in the school to find 6 items before you reach Miss Strickler's classroom. If you enter her class without all items, you'll enjoy 6 weeks of summer school! If you collect all items you'll be able to complete the final assignment for Miss Strickler and enjoy your summer.
 
-## Rooms
+8 Rooms
 
 Project One requires a minimum of eight rooms.
 
-1. TODO: Start room
-2. TODO: Room
-3. TODO: Room
-4. TODO: Room
-5. TODO: Room
-6. TODO: Room
-7. TODO: Room
-8. TODO: Villain room
+1. TODO: Main Hallway
+2. TODO: Principal's Office
+3. TODO: Gymnasium
+4. TODO: Locker Room
+5. TODO: Cafeteria
+6. TODO: Computer Lab
+7. TODO: Library
+8. TODO: Miss Strickler's Class Room
 
-Add more rooms if your design needs them.
 
 ## Items
 
 With the minimum eight-room design, Project One requires at least six items.
 Every room except the start room and villain room must contain one item.
 
-1. TODO: Item
-2. TODO: Item
-3. TODO: Item
-4. TODO: Item
-5. TODO: Item
-6. TODO: Item
+1. TODO: Pencil
+2. TODO: Textbook
+3. TODO: Calculator
+4. TODO: Notebook
+5. TODO: Ruler
+6. TODO: Backpack
 
 If you add rooms beyond the minimum, add an item for every additional room
 except the start room and villain room.
 
 ## Villain
 
-TODO: Identify and briefly describe the villain.
+Miss Stickler, the school's evil Math Teacher who loves to give pop quizzes and doesn't believe in extra credit.
 
 ## Storyboard and Map Check
 
